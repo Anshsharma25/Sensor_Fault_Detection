@@ -1,6 +1,6 @@
 *.egg-info/
-notebook/
-build/
-dist/
+build
+src.egg-info
+dist
 __pycache__/
-venv/
+venv
